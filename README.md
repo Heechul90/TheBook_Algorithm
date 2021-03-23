@@ -1,1 +1,1 @@
-# TheBook_Scratch
+# TheBook_Scratch_Algorithm
